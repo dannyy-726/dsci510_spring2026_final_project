@@ -1,6 +1,7 @@
-# Data and results (do not commit)
+# Data, results, and saved models (do not commit)
 data/
 results/
+models/
 
 # Environment variables
 .env
